@@ -1,1 +1,131 @@
+body{
+    
+    font-family: 'Roboto Slab', serif;
  
+
+}
+h1{
+    font-size: 50px;
+   
+
+}
+.orange-colour{
+    color: rgb(240, 104, 6);
+
+
+}
+.flexible-container{
+
+display: flex;
+
+
+} 
+#pain{
+
+    background-image: url(images/shapes/Frame\ 57.jpg);
+background-repeat: no-repeat;
+margin-right: 0%;
+}
+
+.half-width{
+
+    width: 40%;
+    padding-left: 2%;
+    
+
+}
+.half-width-img{
+    width: 200px;
+    padding-bottom: 10%;
+
+
+}
+.linked{
+text-decoration: none;
+background-image: linear-gradient(rgb(228, 82, 82),tomato);
+padding-left: 10px;
+padding-right: 10px;
+border-radius: 10%;
+color: white;
+font-weight: 400; 
+}
+
+.top-banner{
+    
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    
+
+}
+
+
+}
+.company{
+    height: 100px;
+    width:200px;
+}
+
+#dev-id{
+
+
+    padding-left: 20%;
+
+}
+
+#descrip{
+
+    width: 60%;
+    padding-left: 20%;
+    
+
+}
+.center{
+    text-align: center;
+}
+
+.contact-linked{
+
+    text-decoration: none;
+    background-image: linear-gradient(rgb(228, 82, 82),tomato);
+    padding-left: 5px;
+    margin-left: 300px;
+    padding-right: 5px;
+    border-radius: 10%;
+    color: white;
+    font-weight: 400; 
+
+}
+.food-list-area{
+
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    
+    }
+
+.item-list{
+
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow:10px 10px 500px gray;
+    border-radius: 5%;
+    box-shadow: 5px 10px;
+    box-shadow: 0 3px 10px rgb(153, 76, 76);
+    
+
+
+}
+
+.food-image{
+
+    width: 100%;
+    padding: 5% 5% 5% 2%;
+}
+.end-part{
+text-align: center;
+background-color: yellowgreen;
+
+
+}
