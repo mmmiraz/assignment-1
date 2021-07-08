@@ -4,6 +4,11 @@ body{
  
 
 }
+#font-size{
+
+    font-size: xx-large;
+    font-weight: 200;
+}
 h1{
     font-size: 50px;
    
@@ -19,12 +24,12 @@ h1{
 display: flex;
 
 
-} 
+}
+
 #pain{
 
     background-image: url(images/shapes/Frame\ 57.jpg);
-background-repeat: no-repeat;
-margin-right: 0%;
+    background-repeat: no-repeat;
 }
 
 .half-width{
@@ -41,13 +46,13 @@ margin-right: 0%;
 
 }
 .linked{
-text-decoration: none;
-background-image: linear-gradient(rgb(228, 82, 82),tomato);
-padding-left: 10px;
-padding-right: 10px;
-border-radius: 10%;
-color: white;
-font-weight: 400; 
+    text-decoration: none;
+    background-image: linear-gradient(rgb(228, 82, 82),tomato);
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10%;
+    color: white;
+    font-weight: 400; 
 }
 
 .top-banner{
@@ -118,14 +123,33 @@ font-weight: 400;
 
 }
 
+.member-list{
+
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow:10px 10px 500px gray;
+    box-shadow: 5px 10px;
+    box-shadow: 0 3px 10px rgb(153, 76, 76);
+}
+#make-small{
+
+    height: 290px;
+
+}
+
+
+
 .food-image{
 
     width: 100%;
     padding: 5% 5% 5% 2%;
 }
 .end-part{
-text-align: center;
-background-color: yellowgreen;
+    text-align: center;
+    background-color: yellowgreen;
 
 
 }
